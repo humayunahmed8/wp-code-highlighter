@@ -2,7 +2,7 @@
 
 Loads [highlight.js](https://highlightjs.org/) and [clipboard.js](https://clipboardjs.com/) on single pages in WordPress for syntax highlighting with a 1-click copy to clipboard button.
 
-![Screenshot](https://d.pr/i/nOniJ6+ "Screenshot")
+![Screenshot](https://prnt.sc/fzw37VYyhwxP "Screenshot")
 
 [Live Example](#).
 
