@@ -4,8 +4,6 @@ Loads [highlight.js](https://highlightjs.org/) and [clipboard.js](https://clipbo
 
 ![Screenshot](https://raw.githubusercontent.com/humayunahmed8/wp-code-highlighter/master/assets/images/demo.png "Screenshot")
 
-[Live Example](#).
-
 Included Theme:
 
 - GitHub Dark Dimmed
