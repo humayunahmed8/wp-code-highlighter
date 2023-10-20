@@ -6,8 +6,6 @@ Loads [highlight.js](https://highlightjs.org/) and [clipboard.js](https://clipbo
 
 [Live Example](#).
 
-From 768px and below, it will always appear.
-
 Included Theme:
 
 - GitHub Dark Dimmed
